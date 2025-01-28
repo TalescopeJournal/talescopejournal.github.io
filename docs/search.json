@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/closeread/index.html",
+    "href": "posts/closeread/index.html",
+    "title": "A Poem (and a Painting) About the Suffering That Hides in Plain Sight",
+    "section": "",
+    "text": "A Poem (and a Painting) About the Suffering That Hides in Plain Sight\nBy Elisa Gabbert March 6, 2002\n\n\n\n\nI’ve been reading this short, wry poem about suffering for more than 20 years.\n\n\n\n\nHow nice that it tells you in the first two words what it’s about.\n\n\n\n\nNo matter how familiar a poem is, rereading it always gives me a sense of first encounter, as though I’ve gone back to sleep and re-entered the dream through a different door.\n\n\n\n\n\n\nMUSÉE DES BEAUX ARTS\nby W.H. Auden\n\nAbout suffering they were never wrong,\nThe old Masters: how well they understood\nIts human position; how it takes place\nWhile someone else is eating or opening a window\n    or just walking dully along;\nHow, when the aged are reverently, passionately waiting\nFor the miraculous birth, there always must be\nChildren who did not specially want it to happen, skating\nOn a pond at the edge of the wood:\nThey never forgot\nThat even the dreadful martyrdom must run its course\nAnyhow in a corner, some untidy spot\nWhere the dogs go on with their doggy life and the torturer’s horse\nScratches its innocent behind on a tree.\n\nIn Breughel’s Icarus, for instance: how everything turns away\nQuite leisurely from the disaster; the ploughman may\nHave heard the splash, the forsaken cry,\nBut for him it was not an important failure; the sun shone\nAs it had to on the white legs disappearing into the green\nWater, and the expensive delicate ship that must have seen\nSomething amazing, a boy falling out of the sky,\nHad somewhere to get to and sailed calmly on.\n\n\n\n\n\n\n\n\nThis is an excerpt of the first three lines of A Poem (and a Painting) About the Suffering That Hides in Plain Sight by Elisa Gabbert, appearing in The New York Times on March 6, 2022."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "TaleScopeJournal",
+    "section": "",
+    "text": "A Poem (and a Painting) About the Suffering That Hides in Plain Sight\n\n\n\n\n\n\n\n\n\n\n\nJan 29, 2025\n\n\nElisa Gabbert\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 28, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 25, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  }
+]
