@@ -5,6 +5,7 @@ author: Elisa Gabbert
 date: "2025-01-29"
 format:
   closeread-html:
+    theme: cosmo
     remove-header-space: true
     debug-mode: false
     cr-style:
